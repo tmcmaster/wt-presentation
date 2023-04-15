@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>57863773594-4p831jmdv6jcv7ae63aok35u34htvaoe.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.57863773594-4p831jmdv6jcv7ae63aok35u34htvaoe</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCK3WcJ_ygu_HssqR0hFJderngvL9oCxb4</string>
+	<key>GCM_SENDER_ID</key>
+	<string>57863773594</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>net.wonkytech.wtPresentation</string>
+	<key>PROJECT_ID</key>
+	<string>wt-presentation</string>
+	<key>STORAGE_BUCKET</key>
+	<string>wt-presentation.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:57863773594:ios:04118b0cadc7b9f66eee23</string>
+	<key>DATABASE_URL</key>
+	<string>https://wt-presentation-default-rtdb.firebaseio.com</string>
+</dict>
+</plist>
